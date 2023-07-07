@@ -1,0 +1,23 @@
+#Big{
+    width: 500px;
+    height: 600px;
+    background-color: rgba(224, 204, 139, 0.582);
+    border-radius: 30px;
+    transform: translate(0%,20%);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#create{
+    float: left;
+    transform: translate(70%,0%);
+}
+table{
+    text-align: center;
+    border: 2px solid black;
+    background-color: aliceblue;
+    width: 200px;
+    height: 200px;
+}

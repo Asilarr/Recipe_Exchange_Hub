@@ -1,0 +1,39 @@
+input[type="email"], input[type="password"]{
+  
+    border: 1px solid rgb(49, 34, 34);
+    border-radius: 5px;
+    width: 250px;
+    height: 30px;
+}
+
+.other{
+    background-color: rgb(241, 236, 228);
+    border: 1px solid black;
+    width: 350px;
+    transform: translate(0%,-70%);
+    height: 320px;
+    text-align: center;
+    margin-left: auto;
+    border-radius: 10%;
+    margin-right: auto;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+label{
+    font-size: 30xp;
+}
+#im{
+    transform: translate(90%,0%);
+}
+#Log{
+    border-radius: 10px;
+    background-color: rgba(207, 122, 66, 0.575);
+    
+    width: 90px;
+    height: 40px;
+    
+}
+img{
+    width: 100%;
+    height: 665px;
+}
